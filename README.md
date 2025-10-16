@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [SOC Home Lab with a Honeypot setup in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SOC Home Lab with a Honeypot setup in Azure](https://github.com/joshgnanaraj/SOC-Home-Lab-in-Microsoft-Azure)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
