@@ -9,6 +9,14 @@
 - <b>SimpleRisk</b>
   - Data Governance Program using SimpleRisk (ongoing)
 
+<h2> ✅ Certifications:</h2>
+
+- <b>CompTIA Sec+</b> (in process)
+
+- <b>Qualys Vulnerability Management</b>
+
+- <b>AZ 900</b> (in process)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
