@@ -5,7 +5,9 @@
 - <b>Microsoft Azure</b>
   - [SOC Home Lab with a Honeypot setup in Azure](https://github.com/joshgnanaraj/SOC-Home-Lab-in-Microsoft-Azure)
 - <b>Nessus Essentials</b>
-  - [Vulnerability Management using Nessus Essentials](https://github.com/joshgnanaraj/Nessus-Vulnerability-Management-Lab) 
+  - [Vulnerability Management using Nessus Essentials](https://github.com/joshgnanaraj/Nessus-Vulnerability-Management-Lab)
+- <b>SimpleRisk</b>
+  - Data Governance Program using SimpleRisk (ongoing)
 
 
 <!--
