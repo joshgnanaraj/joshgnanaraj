@@ -1,4 +1,4 @@
-<h1>Hello, I'm Joshua! <br/><a href="https://github.com/joshgnanaraj">Cybersecurity Grad Student</a> and <a href="https://www.linkedin.com/in/joshgnanaraj/">Cloud Security Enthusiast</a>
+<h1>Hello, I'm Joshua! <br/><a href="https://github.com/joshgnanaraj">Cybersecurity Grad Student</a> and <a href="https://www.linkedin.com/in/joshgnanaraj/">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
