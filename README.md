@@ -11,11 +11,11 @@
 
 <h2> ✅ Certifications:</h2>
 
-- <b>CompTIA Sec+</b> (in process)
+- <b>CompTIA Sec+</b>
 
 - <b>Qualys Vulnerability Management</b>
 
-- <b>AZ 900</b> (in process)
+- <b>AZ 900</b> 
 
 
 <!--
